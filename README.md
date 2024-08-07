@@ -4,9 +4,9 @@ Welcome to the Library Management System database schema. This schema is designe
 
 # Installation and Usage
 
- 1.Setup Schema: Execute the provided SQL scripts to create the schema and tables.\n
- 2.Populate Data: Insert your initial data into the tables as required.\n
- 3.Application Integration: Connect your application to the library_management schema to start using the database.\n
+ 1.Setup Schema: Execute the provided SQL scripts to create the schema and tables.<br>
+ 2.Populate Data: Insert your initial data into the tables as required.<br>
+ 3.Application Integration: Connect your application to the library_management schema to start using the database.<br>
 
  
 # 2. School Management System Database Schema
@@ -14,9 +14,9 @@ Welcome to the School Management System database schema. This schema is designed
 
 # Installation and Usage
 
- 1.Setup Schema: Execute the provided SQL scripts to create the schema and tables.\n
- 2.Populate Data: Insert your initial data into the tables as required.\n
- 3.Application Integration: Connect your application to the school_management schema to start using the database.\n
+ 1.Setup Schema: Execute the provided SQL scripts to create the schema and tables.<br>
+ 2.Populate Data: Insert your initial data into the tables as required.<br>
+ 3.Application Integration: Connect your application to the school_management schema to start using the database.<br>
 
 # Contributions
 
